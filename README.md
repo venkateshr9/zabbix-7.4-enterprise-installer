@@ -98,7 +98,7 @@ During installation, you can choose:
 
 👨‍💻 Author
 Venkatesh Ramalingam
-Network & Systems Engineer
+Network & Systems Administrator
 Zabbix | Linux | VMware | DevOps | Observability
 
 ⚠ Disclaimer
@@ -111,3 +111,4 @@ Subscribe to the YouTube channel @technousher
 
 
 Share with your team
+
