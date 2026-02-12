@@ -107,5 +107,7 @@ Always test in staging before production rollout.
 
 ⭐ If This Helped You
 Please ⭐ Star the repository
-Subscribe to the YouTube channel
+Subscribe to the YouTube channel @technousher
+
+
 Share with your team
